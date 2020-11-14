@@ -4,7 +4,7 @@
 
 DevOps Prototype
 * Understanding DevOps by doing it :-)
-* 10:36 THomas Stoffel
+* 10:36 THomas Stoffel 1
 
 ## Required Tools
 * Git (https://git-scm.com/)
